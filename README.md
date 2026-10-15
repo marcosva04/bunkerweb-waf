@@ -1,2 +1,1 @@
-# bunkerweb-waf-lab
-Laboratorio de despliegue y configuración de BunkerWeb WAF sobre Ubuntu Server y Docker para protección y monitorización de aplicaciones web.
+Laboratorio de seguridad web con BunkerWeb WAF, Docker y Ubuntu Server, centrado en protección de aplicaciones, pruebas controladas y análisis de logs.
